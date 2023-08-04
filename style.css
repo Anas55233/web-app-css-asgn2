@@ -1,0 +1,48 @@
+.heading {
+
+    text-align: center;
+    line-height: 1px;
+    padding-top: 20px;
+    color: cadetblue;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+ul {
+margin: 40px auto;
+border-top: 5px solid cadetblue;
+border-bottom: 5px solid cadetblue;
+width: 800px;
+padding: 20px;
+font-size: large;
+list-style-type: none;
+display: flex;
+justify-content: center;
+}
+
+li {
+    margin-right: 40px;
+}
+
+img {
+    width: 350px;
+    height: 300px;
+}
+
+.images {
+text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: xx-large;
+    width: 900px;
+    margin: 20px auto;
+    word-spacing: 10px;
+}
